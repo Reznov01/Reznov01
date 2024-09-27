@@ -1,9 +1,8 @@
-<div aling="center">
+<div align="center">
   <h1 aling="center">Hi👋, I'm Rafael Romero </h1>
 </div>
-<img src="https://imgur.com/a/h4H81Yh">
-<!--
-**Reznov01/Reznov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://imgur.com/a/h4H81Yh.png">
+
 
 Here are some ideas to get you started:
 ## About me
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Database**
 - ✏️ self-taught student
 
--->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
