@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+div
+<p align="center">
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,tailwind,ts,electron,nodejs,py)](https://skillicons.dev)
+/>
+  
+</p>
