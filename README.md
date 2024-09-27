@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 div
 <p align="center">
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,tailwind,ts,electron,nodejs,py)](https://skillicons.dev)
-/>
-  
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,electron,nodejs,py" />
+  </a>
 </p>
