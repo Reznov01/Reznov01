@@ -1,7 +1,7 @@
 <div align="center">
   <h1 aling="center">Hi👋, I'm Rafael Romero </h1>
 </div>
-<img src="[https://imgur.com/a/h4H81Yh.png](https://imgur.com/gallery/banner-from-github-h4H81Yh)">
+<img src="https://imgur.com/gallery/banner-from-github-h4H81Yh">
 
 
 Here are some ideas to get you started:
