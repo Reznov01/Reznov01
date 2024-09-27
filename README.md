@@ -1,5 +1,6 @@
 <div aling="center">
   <h1 aling="center">Hi👋, I'm Rafael Romero </h1>
+</div>
 <img src="https://imgur.com/a/h4H81Yh">
 <!--
 **Reznov01/Reznov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
